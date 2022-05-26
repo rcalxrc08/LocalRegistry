@@ -4,3 +4,4 @@ repo = "https://github.com/rcalxrc08/LocalRegistry.git"
 description = "My private registry"
 
 [packages]
+ccc4acef-1676-4a84-946d-4093fe376f06 = { name = "FinancialFFT", path = "C:\Users\Nicola\.julia\dev\FinancialFFT" }
