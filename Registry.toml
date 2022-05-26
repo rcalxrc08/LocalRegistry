@@ -1,0 +1,6 @@
+name = "localregistry"
+uuid = "11f9c9f4-3b5d-4bcd-a025-3bf672513579"
+repo = "https://github.com/rcalxrc08/LocalRegistry.git"
+description = "My private registry"
+
+[packages]
