@@ -1,0 +1,4 @@
+[0]
+FinancialMonteCarlo = "0.3"
+Requires = "1"
+julia = "1"
