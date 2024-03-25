@@ -6,4 +6,3 @@ description = "My private registry"
 [packages]
 54ac12d0-05a3-433d-adfa-205158e8d514 = { name = "AlternateVectors", path = "A/AlternateVectors" }
 ccc4acef-1676-4a84-946d-4093fe376f06 = { name = "FinancialFFT", path = "F/FinancialFFT" }
-e6fc01e8-e6d3-4c93-80cb-ea8d1c9bc714 = { name = "VibratoMonteCarlo", path = "V/VibratoMonteCarlo" }
