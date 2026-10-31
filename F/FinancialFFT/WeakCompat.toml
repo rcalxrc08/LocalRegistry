@@ -1,0 +1,8 @@
+["0.2-0"]
+CUDA = "5-6"
+DualNumbers = "0.6"
+ForwardDiff = ["0.10", "1"]
+HyperDualNumbers = "2-4"
+Mooncake = "0.5"
+ReverseDiff = "1.18.0-1"
+TaylorSeries = "0.15-0.23"

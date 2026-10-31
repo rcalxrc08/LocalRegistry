@@ -1,5 +1,7 @@
 [0]
 FFTW = "1"
+
+["0-0.1"]
 FinancialMonteCarlo = "0.3"
 Requires = "1"
 julia = "1"
@@ -9,8 +11,17 @@ Interpolations = ["0.10.1", "0.11", "0.12", "0.13", "0.14"]
 
 ["0.1.4-0"]
 Adapt = "3-4"
-AlternateVectors = "0.1"
 ChainRulesCore = "1"
+MuladdMacro = "0.2"
+
+["0.1.4-0.1"]
+AlternateVectors = "0.1"
 DataInterpolations = "4"
 Interpolations = "0.10.1-0.15"
-MuladdMacro = "0.2"
+
+["0.2-0"]
+DataInterpolations = "4-10"
+FinancialMonteCarlo = "0.5.1-0.5"
+Interpolations = "0.10.1-0.16"
+PatternVectors = "0.1.4-0.1"
+julia = "1.10.0-1"
