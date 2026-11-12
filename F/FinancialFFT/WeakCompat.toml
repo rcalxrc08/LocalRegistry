@@ -6,3 +6,6 @@ HyperDualNumbers = "2-4"
 Mooncake = "0.5"
 ReverseDiff = "1.18.0-1"
 TaylorSeries = "0.15-0.23"
+
+["0.6-0"]
+EnzymeCore = "0.8"
