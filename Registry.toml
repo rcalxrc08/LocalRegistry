@@ -6,6 +6,7 @@ description = "My private registry"
 [packages]
 078f23cc-2637-5a1d-aba6-8a9ba9a6ff83 = { name = "FinancialMonteCarlo", path = "F/FinancialMonteCarlo" }
 54ac12d0-05a3-433d-adfa-205158e8d514 = { name = "AlternateVectors", path = "A/AlternateVectors" }
+60ce4190-d1b0-11e9-1cf6-9f8fd6ff6838 = { name = "FinancialCalibrator", path = "F/FinancialCalibrator" }
 92638b5e-77be-42fd-8598-99573a47aaa0 = { name = "PatternVectors", path = "P/PatternVectors" }
 ccc4acef-1676-4a84-946d-4093fe376f06 = { name = "FinancialFFT", path = "F/FinancialFFT" }
 e6fc01e8-e6d3-4c93-80cb-ea8d1c9bc714 = { name = "VibratoMonteCarlo", path = "V/VibratoMonteCarlo" }

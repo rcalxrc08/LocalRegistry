@@ -1,0 +1,15 @@
+[0]
+ADTypes = "1"
+Adapt = "3-4"
+ChainRulesCore = "1"
+Dates = "1"
+DifferentiationInterface = "0.6.1-0.7"
+Downloads = "1"
+FinancialMonteCarlo = "0.10"
+FinancialToolbox = "0.8"
+ImplicitDifferentiation = "0.9"
+JSON = ["0.21", "1"]
+LinearAlgebra = "1"
+Optim = "2.3.2-2"
+Statistics = "1"
+julia = "1.10.0-1"
