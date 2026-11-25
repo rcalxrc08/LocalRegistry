@@ -4,6 +4,7 @@ repo = "https://github.com/rcalxrc08/LocalRegistry.git"
 description = "My private registry"
 
 [packages]
+078f23cc-2637-5a1d-aba6-8a9ba9a6ff83 = { name = "FinancialMonteCarlo", path = "F/FinancialMonteCarlo" }
 54ac12d0-05a3-433d-adfa-205158e8d514 = { name = "AlternateVectors", path = "A/AlternateVectors" }
 92638b5e-77be-42fd-8598-99573a47aaa0 = { name = "PatternVectors", path = "P/PatternVectors" }
 ccc4acef-1676-4a84-946d-4093fe376f06 = { name = "FinancialFFT", path = "F/FinancialFFT" }

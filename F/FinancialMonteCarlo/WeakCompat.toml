@@ -1,0 +1,8 @@
+[0]
+CUDA = "5-6"
+Distributed = "1"
+DualNumbers = "0.6"
+EnzymeCore = "0.8"
+Mooncake = "0.5"
+StochasticDiffEq = "6-7"
+VectorizedRNG = "0.2"
