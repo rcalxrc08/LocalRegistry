@@ -61,5 +61,10 @@ FinancialMonteCarlo = "0.7-0.9"
 FinancialFFT = "0.6-0.7"
 
 ["0.7-0"]
-FinancialFFT = "0.8"
 FinancialMonteCarlo = "0.10"
+
+["0.7.0"]
+FinancialFFT = "0.8"
+
+["0.7.1-0"]
+FinancialFFT = "0.8-0.9"
